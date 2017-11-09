@@ -1,0 +1,31 @@
+﻿  Text Editor.cpp
+c:\users\huangxm\desktop\texteditor\texteditor\texteditor\utility.h(164): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+  String.cpp
+c:\users\huangxm\desktop\texteditor\texteditor\texteditor\utility.h(164): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+c:\users\huangxm\desktop\texteditor\texteditor\texteditor\string.cpp(24): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+c:\users\huangxm\desktop\texteditor\texteditor\texteditor\string.cpp(30): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\huangxm\desktop\texteditor\texteditor\texteditor\string.cpp(34): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+c:\users\huangxm\desktop\texteditor\texteditor\texteditor\string.cpp(67): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\huangxm\desktop\texteditor\texteditor\texteditor\string.cpp(69): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+c:\users\huangxm\desktop\texteditor\texteditor\texteditor\string.cpp(92): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+c:\users\huangxm\desktop\texteditor\texteditor\texteditor\string.cpp(93): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(90): note: 参见“strcat”的声明
+c:\users\huangxm\desktop\texteditor\texteditor\texteditor\string.cpp(144): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+c:\users\huangxm\desktop\texteditor\texteditor\texteditor\string.cpp(155): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(346): note: 参见“strncpy”的声明
+c:\users\huangxm\desktop\texteditor\texteditor\texteditor\string.cpp(174): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+c:\users\huangxm\desktop\texteditor\texteditor\texteditor\string.cpp(187): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(346): note: 参见“strncpy”的声明
+  stdafx.cpp
+  LineEditor.cpp
+c:\users\huangxm\desktop\texteditor\texteditor\texteditor\utility.h(164): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+  正在生成代码...
+  TextEditor.vcxproj -> C:\Users\huangxm\Desktop\TextEditor\TextEditor\x64\Debug\TextEditor.exe
